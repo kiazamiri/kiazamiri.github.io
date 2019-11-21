@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome
+Hello everyone! Welcome to my github page. My name is Mohammadkia Zamiri.  
 
-You can use the [editor on GitHub](https://github.com/kiazamiri/kiazamiri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In my github page, I put code in C language and have uploaded python exercises. In the near future, I will also upload CUDA C 
+codes and programs for people who are interested in Parallel Processing like me. I hope that my codes will be useful for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GitHub Repositories:
+- [Python Exercises for Begginers](https://github.com/kiazamiri/Python-for-beginner.git)
+- [Chess with code C](https://github.com/kiazamiri/Chess.git)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kiazamiri/kiazamiri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Created by Mohammadkia Zamiri-Jafarian

@@ -7,7 +7,7 @@ codes and programs for people who are interested in Parallel Processing like me.
 GitHub Repositories:
 - [Python Exercises for Begginers](https://github.com/kiazamiri/Python-for-beginner.git)
 - [Chess with code C](https://github.com/kiazamiri/Chess.git)
-- [Designing and Implementing a Wifi/GPRS gateway for IoT](https://github.com/kiazamiri/IoT-Project.git)
+- [Designing and Implementing a Wifi/GPRS gateway for IoT]( https://kiazamiri.github.io/IoT-Project/)
 
 
 Created by Mohammadkia Zamiri-Jafarian

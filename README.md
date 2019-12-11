@@ -8,6 +8,6 @@ GitHub Repositories:
 - [Python Exercises for Begginers](https://github.com/kiazamiri/Python-for-beginner.git)
 - [Chess with code C](https://kiazamiri.github.io/Chess/)
 - [Designing and Implementing a Wifi/GPRS gateway for IoT]( https://kiazamiri.github.io/IoT-Project/)
-- [CUDA C Projects](https://github.com/kiazamiri/CUDA-C-Projects.git)
+- [CUDA C Projects](https://kiazamiri.github.io/CUDA-C-Projects/)
 
 Created by Mohammadkia Zamiri-Jafarian

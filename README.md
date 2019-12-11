@@ -6,7 +6,7 @@ codes and programs for people who are interested in Parallel Processing like me.
 
 GitHub Repositories:
 - [Python Exercises for Begginers](https://github.com/kiazamiri/Python-for-beginner.git)
-- [Chess with code C](https://github.com/kiazamiri/Chess.git)
+- [Chess with code C](https://kiazamiri.github.io/Chess/)
 - [Designing and Implementing a Wifi/GPRS gateway for IoT]( https://kiazamiri.github.io/IoT-Project/)
 - [CUDA C Projects](https://github.com/kiazamiri/CUDA-C-Projects.git)
 

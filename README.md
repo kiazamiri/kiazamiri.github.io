@@ -5,9 +5,10 @@ In my github page, I put code in C language and have uploaded python exercises. 
 codes and programs for people who are interested in Parallel Processing like me. I hope that my codes will be useful for you.
 
 GitHub Repositories:
-- [Python Exercises for Begginers](https://github.com/kiazamiri/Python-for-beginner.git)
 - [Chess with code C](https://kiazamiri.github.io/Chess/)
-- [Designing and Implementing a Wifi/GPRS gateway for IoT]( https://kiazamiri.github.io/IoT-Project/)
 - [CUDA C Projects](https://kiazamiri.github.io/CUDA-C-Projects/)
+- [Designing and Implementing a Wifi/GPRS gateway for IoT]( https://kiazamiri.github.io/IoT-Project/)
+- [Improving SINR in Adaptive Beamforming](https://kiazamiri.github.io/System-Optimization/)
+- [Python Exercises for Begginers](https://github.com/kiazamiri/Python-for-beginner.git)
 
 Created by Mohammadkia Zamiri-Jafarian
